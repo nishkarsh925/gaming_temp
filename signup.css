@@ -28,7 +28,7 @@ h1{
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 10; /* Ensure navbar is above carousel */
+  z-index: 1500; /* Ensure navbar is above carousel */
 }
 
 /* Make sure the carousel is positioned correctly */
